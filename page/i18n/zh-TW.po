@@ -1,0 +1,17 @@
+
+
+msgid "阅读器设置"
+msgstr "閱讀器設定"
+
+msgid "阅读进度"
+msgstr "閱讀進度"
+
+msgid "内存占用"
+msgstr "記憶體佔用"
+
+msgid "大体简介"
+msgstr "大體簡介"
+
+
+msgid "书籍列表"
+msgstr "書籍列表"
